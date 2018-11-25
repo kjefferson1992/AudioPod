@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PodcastsCourseLBTA/Controllers/PodcastsSearchController.swift"
+            timestampString = "540790834.112646"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "searchBar(_:textDidChange:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PodcastsCourseLBTA/API/APIService.swift"
+            timestampString = "558568645.577314"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "fetchPodcasts(searchText:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Foundation.Data&gt;) -&gt; () in PodcastsCourseLBTA.APIService.fetchPodcasts(searchText: Swift.String, completionHandler: (Swift.Array&lt;PodcastsCourseLBTA.Podcast&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PodcastsCourseLBTA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brianvoong/Public/podcasts_zips/PodcastsCourseLBTA/PodcastsCourseLBTA/API/APIService.swift"
+                  timestampString = "558568645.715467"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "1477">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Foundation.Data&gt;) -&gt; () in PodcastsCourseLBTA.APIService.fetchPodcasts(searchText: Swift.String, completionHandler: (Swift.Array&lt;PodcastsCourseLBTA.Podcast&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PodcastsCourseLBTA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brianvoong/Public/podcasts_zips/PodcastsCourseLBTA/PodcastsCourseLBTA/API/APIService.swift"
+                  timestampString = "558568645.717002"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "1959">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Foundation.Data&gt;) -&gt; () in PodcastsCourseLBTA.APIService.fetchPodcasts(searchText: Swift.String, completionHandler: (Swift.Array&lt;PodcastsCourseLBTA.Podcast&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PodcastsCourseLBTA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brianvoong/Public/podcasts_zips/PodcastsCourseLBTA/PodcastsCourseLBTA/API/APIService.swift"
+                  timestampString = "558568645.71843"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "2026">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
